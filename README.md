@@ -1,6 +1,6 @@
 # disk cleanup
 
-[![disk cleanup](get-detail.png)](https://github.com/tech0put/disk.cleanup)
+[![disk cleanup](get-detail.png)](https://icncomputer.com/diskcleanup/)
 
 Disk Cleanup is a Microsoft software utility first introduced with Windows 98 and included in all subsequent releases of Windows. It allows users to remove files that are no longer needed or that can be safely deleted. Removing unnecessary files, including temporary files, helps speed up and improve the performance of the hard drive and computer. Running Disk Cleanup at least once a month is an excellent maintenance task and frequency.
 
